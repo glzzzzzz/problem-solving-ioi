@@ -11,7 +11,7 @@
 ## Petite modification : 
     
 
-2. Ajouter les modifications **la zone de transit** (*staging area*)
+1. Ajouter les modifications **la zone de transit** (*staging area*)
         ```bash
         git add.
         ```
@@ -20,7 +20,7 @@
     ```bash
     git commit -m "Ajout du mode d'emploi"
     ```        
-3. Pousser le commit sur le remote :
+1. Pousser le commit sur le remote :
      ```bash
     git push
     ```
