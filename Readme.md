@@ -8,3 +8,19 @@
 - Copiez ce code dans France-IOI pour l'évaluer
 
 
+## Petite modification : 
+    
+
+2. Ajouter les modifications **la zone de transit** (*staging area*)
+        ```bash
+        git add.
+        ```
+
+1. Créer un commit :
+    ```bash
+    git commit -m "Ajout du mode d'emploi"
+    ```        
+3. Pousser le commit sur le remote :
+     ```bash
+    git push
+    ```
